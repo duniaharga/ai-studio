@@ -1,0 +1,6 @@
+{
+  "name": "Melli — Master 3D Artistry",
+  "description": "Master 3D animation in just three days with Melli Motion academy. Explore our universe of 3D motion, photoreal honeybee flight, and master 3D artistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
